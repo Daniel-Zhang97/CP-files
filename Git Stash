@@ -1,0 +1,2 @@
+stash
+The stash command takes the current iteration of the code and stores it away for future use. Great for when we want to save the changes, but not necessarily commit. It’s just a simple way to keep our work for if we need to come back to it later.
